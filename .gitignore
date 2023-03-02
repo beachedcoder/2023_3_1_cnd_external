@@ -1,8 +1,11 @@
+# directories
+
 node_modules
 tmp
 temp
 log
 logs
 
+# files or file patterns
 
 *.log
